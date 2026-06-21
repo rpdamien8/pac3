@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/glorp_materials/glorp_fur2"
+	"$translucent" 1
+}
